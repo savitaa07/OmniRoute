@@ -1,4 +1,4 @@
-# Pathfinding Analysis Engine & Visualizer (PWA)
+# OMNIROUTE
 
 ## 📌 Overview
 An advanced algorithmic engine designed to visualize and benchmark search heuristics in a 2D grid environment. This Progressive Web App (PWA) evaluates the efficiency of informed and uninformed search strategies, providing a comparative analysis of path optimality and exploration density.
@@ -25,12 +25,3 @@ The engine provides a deep dive into several graph traversal strategies:
 * **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3 (Neumorphic UI).
 * **Tooling**: Vite (Build System), ESLint (Code Quality).
 * **Deployment**: Vercel/PWA standards.
-
-## 🚀 Installation & Setup
-1. `git clone https://github.com/Yeshwanth-kr/pathfinding-visualizer-pwa.git`
-2. `npm install`
-3. `npm run dev`
-
----
-**Author**: Yeshwanth Krishna<br>
-**Focus**: Algorithms, Data Structures & Performance Optimization
