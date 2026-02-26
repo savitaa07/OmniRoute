@@ -1,11 +1,8 @@
 # OMNIROUTE
 
-## 📌 Overview
-An advanced algorithmic engine designed to visualize and benchmark search heuristics in a 2D grid environment. This Progressive Web App (PWA) evaluates the efficiency of informed and uninformed search strategies, providing a comparative analysis of path optimality and exploration density.
+<img width="100%" src="Visual-Search_Demo.gif"/>
 
-<img width="100%" src="/public/Visual-Search_Demo.gif"/>
 
-## 🧠 Implemented Algorithms
 The engine provides a deep dive into several graph traversal strategies:
 * **Informed Search**: A*, IDA* (Iterative Deepening A*), Greedy Best-First Search.
 * **Uninformed Search**: Dijkstra’s (Uniform Cost), BFS, DFS, Iterative Deepening.
